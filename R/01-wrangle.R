@@ -28,9 +28,7 @@ write_csv(gap_1980s, "data_clean/gapminder_1980s.csv")
 # Write as an R object (useful when saving something more complex than a data frame)
 # write_rds(gap_1980s, "data_clean/gapminder_1980s.rds")
 
-# Save entire workspace (usually a bad idea!)
-# save.image("workspace.Rdata")
-
+print("hello!")
 
 
 
