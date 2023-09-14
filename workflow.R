@@ -4,3 +4,5 @@ source("R/01-wrangle.R")
 
 # Then we fit a mixed effects model
 source("R/02-analyze.R")
+
+# This is the end of this file
