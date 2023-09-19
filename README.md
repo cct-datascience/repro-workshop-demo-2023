@@ -13,11 +13,11 @@ List of attendees:
 
 - Eric R Scott
 - Eldridge Wisely
+- Rachel Leih
+- Alma Anides
 - Eric Scott
 - ujjal
 - Maddie Wallace
 - Cecilia Martinez
-- Eldridge Wisely
 - Alma Anides
 - Eldridge Wisely
-
