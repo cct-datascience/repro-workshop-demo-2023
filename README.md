@@ -12,3 +12,4 @@ Red objects:
 List of attendees:
 - Eric Scott
 - Bryan Blue
+- Eldridge Wisely
