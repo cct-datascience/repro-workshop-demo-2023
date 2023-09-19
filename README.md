@@ -14,6 +14,7 @@ List of attendees:
 - Eric R Scott
 - Eldridge Wisely
 - Eric Scott
+- Cecilia Martinez
+- Eldridge Wisely
 - Alma Anides
 - Eldridge Wisely
-
