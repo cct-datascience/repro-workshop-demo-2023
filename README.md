@@ -14,6 +14,7 @@ List of attendees:
 - Eldridge Wisely
 - Eric Scott
 - Giovanni Melandri
+- Maddie Wallace
 - Cecilia Martinez
 - Eldridge Wisely
 - Alma Anides
