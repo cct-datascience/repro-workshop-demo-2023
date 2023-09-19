@@ -8,3 +8,4 @@ Red objects:
 
 List of attendees:
 - Eric Scott
+- Ceci Martinez
