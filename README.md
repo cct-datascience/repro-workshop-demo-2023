@@ -4,8 +4,24 @@ Red objects:
 - traffic light
 - apple
 - cardinal (male)
+- wicked witch of the west slippers 
+- Sriracha
 
 
 List of attendees:
+- Eric R Scott
+- Eldridge Wisely
+- Rachel Leih
+- Alma Anides
 - Eric Scott
+
 - Marlon DLP
+- Giovanni Melandri
+-Madeleine deBlois
+- ujjal
+- Maddie Wallace
+- Cecilia Martinez
+- Alma Anides
+- Eldridge Wisely
+- Zoe Scott
+
