@@ -4,6 +4,7 @@ Red objects:
 - traffic light
 - apple
 - cardinal (male)
+- Sriracha
 
 
 List of attendees:
