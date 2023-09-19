@@ -9,6 +9,9 @@ Red objects:
 
 
 List of attendees:
+- Eric Scott
+- Bryan Blue
+- Eldridge Wisely
 - Eric R Scott
 - Eldridge Wisely
 - Rachel Leih
