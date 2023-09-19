@@ -7,4 +7,4 @@ Red objects:
 
 List of attendees:
 - Eric Scott
--Ro
+- Rosa Luna
