@@ -15,7 +15,7 @@ List of attendees:
 - Alma Anides
 - Eric Scott
 - Giovanni Melandri
--Madeleine deBlois
+- Madeleine deBlois
 - ujjal
 - Maddie Wallace
 - Cecilia Martinez
