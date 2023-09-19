@@ -7,3 +7,4 @@ Red objects:
 
 List of attendees:
 - Eric Scott
+- Eldridge Wisely
