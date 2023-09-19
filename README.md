@@ -8,4 +8,4 @@ Red objects:
 
 
 List of attendees:
-- Eric Scott
+- Eric R. Scott
