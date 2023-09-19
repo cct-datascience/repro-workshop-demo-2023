@@ -11,4 +11,6 @@ Red objects:
 
 List of attendees:
 - Eric Scott
+- Alma Anides
 - Eldridge Wisely
+
