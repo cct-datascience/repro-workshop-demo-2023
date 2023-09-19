@@ -15,5 +15,7 @@ List of attendees:
 - Eldridge Wisely
 - Rachel Leih
 - Alma Anides
+- Eric Scott
+- Maddie Wallace
 - Cecilia Martinez
 - Alma Anides
