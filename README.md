@@ -9,6 +9,12 @@ Red objects:
 
 
 List of attendees:
+
+- Eric R Scott
+- Eldridge Wisely
 - Eric Scott
 - Giovanni Melandri
+- Cecilia Martinez
+- Eldridge Wisely
+- Alma Anides
 - Eldridge Wisely
