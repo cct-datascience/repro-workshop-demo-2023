@@ -4,8 +4,11 @@ Red objects:
 - traffic light
 - apple
 - cardinal (male)
+- wicked witch of the west slippers 
 - Sriracha
+
 
 
 List of attendees:
 - Eric R Scott
+- Eldridge Wisely
