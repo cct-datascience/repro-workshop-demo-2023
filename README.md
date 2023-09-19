@@ -4,6 +4,7 @@ Red objects:
 - traffic light
 - apple
 - cardinal (male)
+- wicked witch of the west slippers 
 
 
 List of attendees:
