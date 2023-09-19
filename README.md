@@ -1,8 +1,9 @@
 # repro-workshop-demo
 Red objects:
 - stop sign
--traffic light
--apple
+- traffic light
+- apple
+- cardinal (male)
 
 
 List of attendees:
