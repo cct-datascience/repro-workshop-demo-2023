@@ -8,7 +8,6 @@ Red objects:
 - Sriracha
 
 
-
 List of attendees:
 
 - Eric R Scott
@@ -16,6 +15,7 @@ List of attendees:
 - Rachel Leih
 - Alma Anides
 - Eric Scott
+- Giovanni Melandri
 -Madeleine deBlois
 - ujjal
 - Maddie Wallace
