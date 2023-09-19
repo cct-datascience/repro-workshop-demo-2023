@@ -16,6 +16,8 @@ List of attendees:
 - Rachel Leih
 - Alma Anides
 - Eric Scott
+- ujjal
 - Maddie Wallace
 - Cecilia Martinez
 - Alma Anides
+- Eldridge Wisely
