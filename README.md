@@ -9,4 +9,3 @@ Red objects:
 List of attendees:
 - Eric Scott
 -Madeleine deBlois
-
