@@ -13,7 +13,8 @@ List of attendees:
 - Eldridge Wisely
 - Rachel Leih
 - Alma Anides
-- Eric Scott
+- Eric Scot
+- Katie King
 - Giovanni Melandri
 - Madeleine deBlois
 - ujjal
@@ -22,4 +23,3 @@ List of attendees:
 - Alma Anides
 - Eldridge Wisely
 - Zoe Scott
-
