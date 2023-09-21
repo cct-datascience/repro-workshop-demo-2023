@@ -16,7 +16,9 @@ List of attendees:
 - Eldridge Wisely
 - Rachel Leih
 - Alma Anides
-- Eric Scot
+- Eric Scott
+- Rosa Luna
+- Marlon DLP
 - Katie King
 - Giovanni Melandri
 - Madeleine deBlois
