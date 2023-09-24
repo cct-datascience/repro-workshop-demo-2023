@@ -29,3 +29,4 @@ List of attendees:
 - Alma Anides
 - Eldridge Wisely
 - Zoe Scott
+- Mary Ahern 
