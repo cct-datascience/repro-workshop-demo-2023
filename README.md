@@ -6,6 +6,7 @@ Red objects:
 - cardinal (male)
 - wicked witch of the west slippers 
 - Sriracha
+- favorite color
 
 
 List of attendees:
