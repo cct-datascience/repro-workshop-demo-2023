@@ -2,6 +2,7 @@
 
 library(readr)
 library(lme4)
+library(performance)
 
 # read data ---------------------------------------------------------------
 
